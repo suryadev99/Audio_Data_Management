@@ -1,0 +1,226 @@
+2021-05-18 10:56:30.850 | DEBUG    | app:app_create_records_or_get_audioFileTypes:51 - MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 10:56:30.853 | DEBUG    | app:app_create_records_or_get_audioFileTypes:52 - Database(MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 11:46:12.562 | DEBUG    | app:app_create_records_or_get_audioFileTypes:51 - MongoClient(host=['cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 11:46:12.564 | DEBUG    | app:app_create_records_or_get_audioFileTypes:52 - Database(MongoClient(host=['cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 11:55:58.841 | DEBUG    | app:app_create_records_or_get_audioFileTypes:51 - MongoClient(host=['cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 11:55:58.842 | DEBUG    | app:app_create_records_or_get_audioFileTypes:52 - Database(MongoClient(host=['cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 12:14:14.268 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 12:14:14.270 | DEBUG    | app:app_create_records_or_get_audioFileTypes:55 - Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 12:14:14.923 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 12:14:14.924 | DEBUG    | app:app_create_records_or_get_audioFileTypes:55 - Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 12:14:15.142 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 12:14:15.143 | DEBUG    | app:app_create_records_or_get_audioFileTypes:55 - Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 12:15:49.166 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 12:15:49.166 | DEBUG    | app:app_create_records_or_get_audioFileTypes:55 - Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 12:36:48.855 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 12:36:48.856 | DEBUG    | app:app_create_records_or_get_audioFileTypes:55 - Database(MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 12:36:49.196 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 12:36:49.197 | DEBUG    | app:app_create_records_or_get_audioFileTypes:55 - Database(MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 12:36:50.079 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000)
+2021-05-18 12:36:50.080 | DEBUG    | app:app_create_records_or_get_audioFileTypes:55 - Database(MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 13:10:47.195 | DEBUG    | app:app_handle_crud:76 - 400 Bad Request: Bad params
+2021-05-18 13:11:17.802 | DEBUG    | app:app_handle_crud:76 - 400 Bad Request: Bad params
+2021-05-18 13:12:55.199 | DEBUG    | app:app_handle_crud:72 - song
+2021-05-18 13:12:55.200 | DEBUG    | app:app_handle_crud:73 - 105104104105
+2021-05-18 13:12:55.200 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad params
+2021-05-18 13:13:49.255 | DEBUG    | app:app_handle_crud:72 - song
+2021-05-18 13:13:49.256 | DEBUG    | app:app_handle_crud:73 - 105
+2021-05-18 13:13:49.256 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad params
+2021-05-18 13:15:22.663 | DEBUG    | app:app_handle_crud:72 - song
+2021-05-18 13:15:22.664 | DEBUG    | app:app_handle_crud:73 - 105
+2021-05-18 13:15:22.665 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad params
+2021-05-18 13:17:03.495 | DEBUG    | app:app_handle_crud:72 - {'name': 'Enim Saepe', 'duration': 152, 'uploaded_time': 1603728392000}
+2021-05-18 13:17:03.495 | DEBUG    | app:app_handle_crud:73 - 105
+2021-05-18 13:17:03.496 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad params
+2021-05-18 13:21:43.163 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'id': 1000, 'name': 'Enim Saepe', 'duration': 152, 'uploaded_time': 1603728392000}
+2021-05-18 13:23:36.958 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'data': 'data'}
+2021-05-18 13:25:31.725 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '0', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:25:31.727 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 0
+2021-05-18 13:29:01.005 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2018-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:29:01.008 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2018-10-11 14:42:28.557170
+2021-05-18 13:29:01.011 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2018-10-11 14:42:28.557170
+2021-05-18 13:29:01.011 | DEBUG    | controllers.request_handler:create:77 - 400 Bad Request: upload date is in the past
+2021-05-18 13:29:26.551 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:29:26.553 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:29:26.553 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:29:26.554 | DEBUG    | controllers.request_handler:create:77 - 400 Bad Request: bad metadata
+2021-05-18 13:32:36.897 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:32:36.900 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:32:36.903 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:32:36.904 | DEBUG    | controllers.request_handler:create:77 - 400 Bad Request: bad metadata
+2021-05-18 13:33:42.180 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:33:42.183 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:33:42.186 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:33:42.186 | DEBUG    | controllers.request_handler:create:57 - False
+2021-05-18 13:33:42.187 | DEBUG    | controllers.request_handler:create:78 - 400 Bad Request: bad metadata
+2021-05-18 13:34:23.573 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:34:23.576 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:34:23.580 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:34:23.581 | DEBUG    | controllers.request_handler:create:57 - False
+2021-05-18 13:34:23.581 | DEBUG    | controllers.request_handler:create:78 - 400 Bad Request: bad metadata
+2021-05-18 13:36:00.928 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:36:00.931 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:36:00.934 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:36:00.935 | DEBUG    | controllers.request_handler:create:57 - False
+2021-05-18 13:36:00.935 | DEBUG    | controllers.request_handler:create:78 - 400 Bad Request: bad metadata
+2021-05-18 13:38:23.955 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:38:23.957 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:38:23.960 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:38:23.960 | DEBUG    | controllers.request_handler:create:57 - False
+2021-05-18 13:38:23.960 | DEBUG    | controllers.request_handler:create:78 - 400 Bad Request: bad metadata
+2021-05-18 13:39:33.522 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:39:33.524 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:39:33.527 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:39:33.527 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 13:39:33.527 | DEBUG    | controllers.request_handler:create:58 - False
+2021-05-18 13:39:33.528 | DEBUG    | controllers.request_handler:create:79 - 400 Bad Request: bad metadata
+2021-05-18 13:41:21.574 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:41:21.577 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:41:21.579 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:41:21.580 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 13:41:21.580 | DEBUG    | controllers.request_handler:create:58 - True
+2021-05-18 13:41:21.583 | DEBUG    | controllers.request_handler:create:79 - list index out of range
+2021-05-18 13:43:29.637 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'id': 45, 'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:43:29.639 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:43:29.642 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:43:29.642 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'id': 45, 'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 13:43:29.642 | DEBUG    | controllers.request_handler:create:58 - True
+2021-05-18 13:43:29.651 | DEBUG    | controllers.request_handler:create:79 - list index out of range
+2021-05-18 13:44:22.102 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:44:22.104 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:44:22.104 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:44:22.105 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 13:44:22.105 | DEBUG    | controllers.request_handler:create:58 - True
+2021-05-18 13:44:22.108 | DEBUG    | controllers.request_handler:create:79 - list index out of range
+2021-05-18 13:45:19.753 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - Database(MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 13:46:57.707 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:46:57.710 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:46:57.713 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:46:57.714 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 13:46:57.715 | DEBUG    | controllers.request_handler:create:58 - True
+2021-05-18 13:46:57.715 | DEBUG    | controllers.request_handler:create:80 - 'id'
+2021-05-18 13:48:46.224 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:48:46.228 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:48:46.231 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:48:46.232 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 13:48:46.232 | DEBUG    | controllers.request_handler:create:58 - True
+2021-05-18 13:48:46.232 | DEBUG    | controllers.request_handler:create:63 - Collection(Database(MongoClient(host=['cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 13:48:46.233 | DEBUG    | controllers.request_handler:create:82 - 'id'
+2021-05-18 13:50:15.115 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - Database(MongoClient(host=['cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 13:50:16.215 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - Database(MongoClient(host=['cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 13:50:46.230 | DEBUG    | app:app_create_records_or_get_audioFileTypes:54 - Database(MongoClient(host=['cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook')
+2021-05-18 13:53:31.699 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:53:31.702 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:53:31.705 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:53:31.706 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 13:53:31.706 | DEBUG    | controllers.request_handler:create:59 - True
+2021-05-18 13:53:31.707 | DEBUG    | controllers.request_handler:create:64 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 13:53:31.707 | DEBUG    | controllers.request_handler:create:71 - []
+2021-05-18 13:54:57.606 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:54:57.618 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:54:57.621 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:54:57.622 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 13:54:57.622 | DEBUG    | controllers.request_handler:create:59 - True
+2021-05-18 13:54:57.623 | DEBUG    | controllers.request_handler:create:64 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 13:54:57.623 | DEBUG    | controllers.request_handler:create:71 - []
+2021-05-18 13:54:57.643 | DEBUG    | controllers.request_handler:create:78 - {"new_record": []}
+2021-05-18 13:59:07.625 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 13:59:07.627 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 13:59:07.630 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 13:59:07.631 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 13:59:07.631 | DEBUG    | controllers.request_handler:create:59 - True
+2021-05-18 13:59:07.631 | DEBUG    | controllers.request_handler:create:64 - Collection(Database(MongoClient(host=['cluster0-shard-00-00.zb4en.mongodb.net:27017', 'cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 13:59:07.632 | DEBUG    | controllers.request_handler:create:71 - []
+2021-05-18 13:59:07.640 | DEBUG    | controllers.request_handler:create:75 - 60a3c82b7b6e37b76b34e243
+2021-05-18 13:59:07.642 | DEBUG    | controllers.request_handler:create:79 - {"new_record": []}
+2021-05-18 14:00:06.667 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 14:00:06.670 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:00:06.673 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:00:06.673 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 14:00:06.674 | DEBUG    | controllers.request_handler:create:59 - True
+2021-05-18 14:00:06.674 | DEBUG    | controllers.request_handler:create:64 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 14:00:06.674 | DEBUG    | controllers.request_handler:create:71 - []
+2021-05-18 14:00:06.684 | DEBUG    | controllers.request_handler:create:75 - 60a3c8669af3810c9061f4b9
+2021-05-18 14:00:06.684 | DEBUG    | controllers.request_handler:create:76 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 14:00:06.686 | DEBUG    | controllers.request_handler:create:80 - {"new_record": []}
+2021-05-18 14:37:28.116 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 14:37:28.119 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:37:28.122 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:37:28.122 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 14:37:28.123 | DEBUG    | controllers.request_handler:create:59 - True
+2021-05-18 14:37:28.123 | DEBUG    | controllers.request_handler:create:64 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 14:37:28.123 | DEBUG    | controllers.request_handler:create:71 - []
+2021-05-18 14:37:28.133 | DEBUG    | controllers.request_handler:create:75 - 60a3d12898280c4cbb1951e2
+2021-05-18 14:37:28.134 | DEBUG    | controllers.request_handler:create:76 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 14:37:28.136 | DEBUG    | controllers.request_handler:create:80 - {"new_record": [{"_id": {"$oid": "60a3d12898280c4cbb1951e2"}, "uploaded_time": {"$date": 1633963348557}, "duration_time": 102, "title": "in the end.mp4", "author": "linkin park", "narrator": "linkin park", "id": 1}]}
+2021-05-18 14:47:38.562 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}}
+2021-05-18 14:47:38.564 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:47:38.564 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:47:38.565 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park', 'narrator': 'linkin park'}
+2021-05-18 14:47:38.565 | DEBUG    | controllers.request_handler:create:59 - True
+2021-05-18 14:47:38.565 | DEBUG    | controllers.request_handler:create:64 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 14:47:38.566 | DEBUG    | controllers.request_handler:create:71 - []
+2021-05-18 14:47:38.569 | DEBUG    | controllers.request_handler:create:75 - 60a3d38a98280c4cbb1951e3
+2021-05-18 14:47:38.570 | DEBUG    | controllers.request_handler:create:76 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 14:47:38.571 | DEBUG    | controllers.request_handler:create:80 - {"new_record": [{"_id": {"$oid": "60a3d38a98280c4cbb1951e3"}, "uploaded_time": {"$date": 1633963348557}, "duration_time": 102, "title": "in the end.mp4", "author": "linkin park", "narrator": "linkin park", "id": 1}]}
+2021-05-18 14:50:14.457 | DEBUG    | app:app_handle_crud:72 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}}
+2021-05-18 14:50:14.457 | DEBUG    | app:app_handle_crud:73 - 1
+2021-05-18 14:50:14.457 | DEBUG    | controllers.request_handler:update:126 - updating
+2021-05-18 14:50:14.458 | DEBUG    | controllers.request_handler:update:127 - 2021-10-11 14:42:28.557170
+2021-05-18 14:50:14.458 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:50:14.458 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:50:14.461 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad url
+2021-05-18 14:51:53.423 | DEBUG    | app:app_create_records_or_get_audioFileTypes:57 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}}
+2021-05-18 14:51:53.425 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:51:53.426 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:51:53.426 | DEBUG    | controllers.request_handler:validate_metadata:34 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}
+2021-05-18 14:51:53.426 | DEBUG    | controllers.request_handler:create:59 - True
+2021-05-18 14:51:53.426 | DEBUG    | controllers.request_handler:create:64 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 14:51:53.427 | DEBUG    | controllers.request_handler:create:71 - []
+2021-05-18 14:51:53.431 | DEBUG    | controllers.request_handler:create:75 - 60a3d48998280c4cbb1951e4
+2021-05-18 14:51:53.431 | DEBUG    | controllers.request_handler:create:76 - Collection(Database(MongoClient(host=['cluster0-shard-00-02.zb4en.mongodb.net:27017', 'cluster0-shard-00-01.zb4en.mongodb.net:27017', 'cluster0-shard-00-00.zb4en.mongodb.net:27017'], document_class=dict, tz_aware=False, connect=True, retrywrites=True, w='majority', authsource='admin', replicaset='atlas-nfvk34-shard-0', ssl=True, serverselectiontimeoutms=7000), 'Audiobook'), 'audiobook')
+2021-05-18 14:51:53.433 | DEBUG    | controllers.request_handler:create:80 - {"new_record": [{"_id": {"$oid": "60a3d48998280c4cbb1951e4"}, "uploaded_time": {"$date": 1633963348557}, "duration_time": 102, "title": "in the end.mp4", "author": "linkin park worked", "narrator": "linkin park", "id": 1}]}
+2021-05-18 14:54:02.969 | DEBUG    | app:app_handle_crud:72 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}}
+2021-05-18 14:54:02.970 | DEBUG    | app:app_handle_crud:73 - 1
+2021-05-18 14:54:02.970 | DEBUG    | controllers.request_handler:update:126 - updating
+2021-05-18 14:54:02.970 | DEBUG    | controllers.request_handler:update:127 - 2021-10-11 14:42:28.557170
+2021-05-18 14:54:02.970 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:54:02.973 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:54:02.975 | DEBUG    | controllers.request_handler:update:136 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}
+2021-05-18 14:54:02.975 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad url
+2021-05-18 14:54:23.033 | DEBUG    | app:app_handle_crud:72 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}}
+2021-05-18 14:54:23.035 | DEBUG    | app:app_handle_crud:73 - 1
+2021-05-18 14:54:23.035 | DEBUG    | controllers.request_handler:update:126 - updating
+2021-05-18 14:54:23.035 | DEBUG    | controllers.request_handler:update:127 - 2021-10-11 14:42:28.557170
+2021-05-18 14:54:23.035 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:54:23.038 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:54:23.040 | DEBUG    | controllers.request_handler:update:136 - 1
+2021-05-18 14:54:23.041 | DEBUG    | controllers.request_handler:update:137 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}
+2021-05-18 14:54:23.041 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad url
+2021-05-18 14:54:57.753 | DEBUG    | app:app_handle_crud:72 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}}
+2021-05-18 14:54:57.754 | DEBUG    | app:app_handle_crud:73 - 1
+2021-05-18 14:54:57.754 | DEBUG    | controllers.request_handler:update:126 - updating
+2021-05-18 14:54:57.754 | DEBUG    | controllers.request_handler:update:127 - 2021-10-11 14:42:28.557170
+2021-05-18 14:54:57.754 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:54:57.757 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:54:57.759 | DEBUG    | controllers.request_handler:update:136 - 1
+2021-05-18 14:54:57.759 | DEBUG    | controllers.request_handler:update:137 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}
+2021-05-18 14:54:57.760 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad url
+2021-05-18 14:55:59.971 | DEBUG    | app:app_handle_crud:72 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}}
+2021-05-18 14:55:59.972 | DEBUG    | app:app_handle_crud:73 - 1
+2021-05-18 14:55:59.972 | DEBUG    | controllers.request_handler:update:126 - updating
+2021-05-18 14:55:59.973 | DEBUG    | controllers.request_handler:update:127 - 2021-10-11 14:42:28.557170
+2021-05-18 14:55:59.973 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:55:59.976 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:55:59.978 | DEBUG    | controllers.request_handler:update:136 - 1
+2021-05-18 14:55:59.978 | DEBUG    | controllers.request_handler:update:137 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}
+2021-05-18 14:55:59.978 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad url
+2021-05-18 14:56:39.207 | DEBUG    | app:app_handle_crud:72 - {'audioFileType': 'audiobook', 'audioFileMetadata': {'uploaded_time': '2021-10-11 14:42:28.557170', 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}}
+2021-05-18 14:56:39.208 | DEBUG    | app:app_handle_crud:73 - 1
+2021-05-18 14:56:39.208 | DEBUG    | controllers.request_handler:update:126 - updating
+2021-05-18 14:56:39.208 | DEBUG    | controllers.request_handler:update:127 - 2021-10-11 14:42:28.557170
+2021-05-18 14:56:39.209 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:25 - 2021-10-11 14:42:28.557170
+2021-05-18 14:56:39.214 | DEBUG    | controllers.request_handler:check_datestring_and_convert_to_datetime:27 - 2021-10-11 14:42:28.557170
+2021-05-18 14:56:39.216 | DEBUG    | controllers.request_handler:update:136 - 1
+2021-05-18 14:56:39.216 | DEBUG    | controllers.request_handler:update:137 - {'uploaded_time': datetime.datetime(2021, 10, 11, 14, 42, 28, 557170), 'duration_time': 102, 'title': 'in the end.mp4', 'author': 'linkin park worked', 'narrator': 'linkin park'}
+2021-05-18 14:56:39.216 | DEBUG    | app:app_handle_crud:78 - 400 Bad Request: Bad url

@@ -1,0 +1,61 @@
+{
+    "Song": {
+        "Create": {
+            "audioFileType": "song",
+            "audioFileMetadata": {
+                "name": "Sample Sang",
+                "duration": 123,
+                "uploaded_time": "2021-02-22 08:15:27.243860"
+            }
+        },
+        "Update": {
+            "audioFileType": "song",
+            "audioFileMetadata": {
+                "name": "Updated Sang",
+                "duration": 156
+            }
+        }
+    },
+    "Podcast": {
+        "Create": {
+            "audioFileType": "podcast",
+            "audioFileMetadata": {
+                "name": "High and low",
+                "duration": 123,
+                "uploaded_time": "2021-02-22 08:15:27.243860",
+                "host": "Kevin Powel",
+                "participants": []
+            }
+        },
+        "Update" : {
+            "audioFileType": "podcast",
+            "audioFileMetadata": {
+                "name": "High and low",
+                "host": "Kevin Powell",
+                "participants": ["sandy"]
+            }
+        }
+    },
+    "Audiobook": {
+        "Create": {
+            "audioFileType": "audiobook",
+            "audioFileMetadata": {
+                "name": "High and low",
+                "duration": 123,
+                "uploaded_time": "2021-02-22 08:15:27.243860",
+                "author": "Kevin Powell",
+                "narrator": "Sandy"
+            }
+        },
+        "Update": {
+            "audioFileType": "audiobook",
+            "audioFileMetadata": {
+                "name": "Nortom",
+                "duration": 1233,
+                "uploaded_time": "2021-02-22 08:15:27.243860",
+                "author": "Kevin Powell",
+                "narrator": "Hoover"
+            }
+        }
+    }
+}

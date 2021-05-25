@@ -1,0 +1,5 @@
+# folders
+.env
+app/src/__pycache__
+app/src/models/__pycache__
+app/src/controllers/__pycache__
